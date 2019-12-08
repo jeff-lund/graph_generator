@@ -35,7 +35,7 @@ plt.tight_layout()
 plt.savefig('victim.png', format='png')
 plt.clf()
 
-plt.title("Interference when benchmark program is the perpatraor")
+plt.title("Interference when benchmark program is the perpetrator")
 plt.boxplot(perplot, labels=labels)
 plt.axhline(linestyle='--')
 plt.xticks(rotation='45')
