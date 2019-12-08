@@ -28,7 +28,7 @@ perplot = [perp[l] for l in labels]
 
 plt.title("Interference when benchmark program is the victim")
 plt.boxplot(vicplot, labels=labels)
-plt.axhline()
+plt.axhline(linestyle='--')
 plt.xticks(rotation='45')
 plt.tight_layout()
 plt.savefig('victim.png', format='png')
@@ -36,7 +36,7 @@ plt.clf()
 
 plt.title("Interference when benchmark program is the perpatraor")
 plt.boxplot(perplot, labels=labels)
-plt.axhline()
+plt.axhline(linestyle='--')
 plt.xticks(rotation='45')
 plt.tight_layout()
 plt.savefig('perp.png', format='png')
