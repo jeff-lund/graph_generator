@@ -1,0 +1,129 @@
+foreground,background,description,value,uninterfered,interfered,Δ score
+apache,apache,Static Web Page Serving,Requests Per Second,14972.58,14925.58,-0.31%
+apache,build-linux-kernel,Static Web Page Serving,Requests Per Second,14972.58,14896.45,-0.51%
+apache,crafty,Static Web Page Serving,Requests Per Second,14972.58,15064.96,0.62%
+apache,fhourstones,Static Web Page Serving,Requests Per Second,14972.58,14885.4,-0.58%
+apache,fio,Static Web Page Serving,Requests Per Second,14972.58,15195.16,1.49%
+apache,ramspeed,Static Web Page Serving,Requests Per Second,14972.58,14527.18,-2.97%
+apache,sockperf,Static Web Page Serving,Requests Per Second,14972.58,15337.86,2.44%
+apache,sudokut,Static Web Page Serving,Requests Per Second,14972.58,15074.8,0.68%
+build-linux-kernel,apache,Time To Compile,Seconds,679.22,679.11,0.02%
+build-linux-kernel,build-linux-kernel,Time To Compile,Seconds,679.22,684.66,-0.79%
+build-linux-kernel,crafty,Time To Compile,Seconds,679.22,675.99,0.48%
+build-linux-kernel,fhourstones,Time To Compile,Seconds,679.22,677.63,0.23%
+build-linux-kernel,fio,Time To Compile,Seconds,679.22,672.81,0.95%
+build-linux-kernel,ramspeed,Time To Compile,Seconds,679.22,671,1.23%
+build-linux-kernel,sockperf,Time To Compile,Seconds,679.22,664.84,2.16%
+build-linux-kernel,sudokut,Time To Compile,Seconds,679.22,673.62,0.83%
+crafty,apache,Elapsed Time,Nodes Per Second,7959123,8015002,0.70%
+crafty,build-linux-kernel,Elapsed Time,Nodes Per Second,7959123,7893181,-0.83%
+crafty,crafty,Elapsed Time,Nodes Per Second,7959123,8035967,0.97%
+crafty,fhourstones,Elapsed Time,Nodes Per Second,7959123,7902454,-0.71%
+crafty,fio,Elapsed Time,Nodes Per Second,7959123,8237137,3.49%
+crafty,ramspeed,Elapsed Time,Nodes Per Second,7959123,7682610,-3.47%
+crafty,sockperf,Elapsed Time,Nodes Per Second,7959123,8257721,3.75%
+crafty,sudokut,Elapsed Time,Nodes Per Second,7959123,8091033,1.66%
+fhourstones,apache,Complex Connect-4 Solving,Kpos / sec,13301.9,12529.33,-5.81%
+fhourstones,build-linux-kernel,Complex Connect-4 Solving,Kpos / sec,13301.9,12102.9,-9.01%
+fhourstones,crafty,Complex Connect-4 Solving,Kpos / sec,13301.9,13007.97,-2.21%
+fhourstones,fhourstones,Complex Connect-4 Solving,Kpos / sec,13301.9,12599.3,-5.28%
+fhourstones,fio,Complex Connect-4 Solving,Kpos / sec,13301.9,13185.07,-0.88%
+fhourstones,ramspeed,Complex Connect-4 Solving,Kpos / sec,13301.9,13233.43,-0.51%
+fhourstones,sockperf,Complex Connect-4 Solving,Kpos / sec,13301.9,13655.57,2.66%
+fhourstones,sudokut,Complex Connect-4 Solving,Kpos / sec,13301.9,13249.27,-0.40%
+fio,apache,,,112,125,11.61%
+fio,apache,,,28800,31567,9.61%
+fio,apache,,,112,125,11.61%
+fio,apache,,,28733,31600,9.98%
+fio,apache,,,108,119,10.19%
+fio,apache,,,27567,30600,11.00%
+fio,apache,,,108,119,10.19%
+fio,apache,,,27600,30600,10.87%
+fio,build-linux-kernel,,,112,127,13.39%
+fio,build-linux-kernel,,,28800,32400,12.50%
+fio,build-linux-kernel,,,112,126,12.50%
+fio,build-linux-kernel,,,28733,32367,12.65%
+fio,build-linux-kernel,,,108,121,12.04%
+fio,build-linux-kernel,,,27567,30333,10.03%
+fio,build-linux-kernel,,,108,121,12.04%
+fio,build-linux-kernel,,,27600,30667,11.11%
+fio,crafty,,,112,128,14.29%
+fio,crafty,,,28800,32633,13.31%
+fio,crafty,,,112,127,13.39%
+fio,crafty,,,28733,32600,13.46%
+fio,crafty,,,108,122,12.96%
+fio,crafty,,,27567,31167,13.06%
+fio,crafty,,,108,122,12.96%
+fio,crafty,,,27600,31200,13.04%
+fio,fhourstones,,,112,127,13.39%
+fio,fhourstones,,,28800,32433,12.61%
+fio,fhourstones,,,112,127,13.39%
+fio,fhourstones,,,28733,32500,13.11%
+fio,fhourstones,,,108,122,12.96%
+fio,fhourstones,,,27567,31167,13.06%
+fio,fhourstones,,,108,122,12.96%
+fio,fhourstones,,,27600,31233,13.16%
+fio,fio,,,112,126,12.50%
+fio,fio,,,28800,32233,11.92%
+fio,fio,,,112,126,12.50%
+fio,fio,,,28733,32233,12.18%
+fio,fio,,,108,120,11.11%
+fio,fio,,,27567,30833,11.85%
+fio,fio,,,108,120,11.11%
+fio,fio,,,27600,30767,11.47%
+fio,ramspeed,,,112,125,11.61%
+fio,ramspeed,,,28800,31800,10.42%
+fio,ramspeed,,,112,127,13.39%
+fio,ramspeed,,,28733,32033,11.49%
+fio,ramspeed,,,108,123,13.89%
+fio,ramspeed,,,27567,31433,14.02%
+fio,ramspeed,,,108,123,13.89%
+fio,ramspeed,,,27600,31400,13.77%
+fio,sockperf,,,112,129,15.18%
+fio,sockperf,,,28800,33000,14.58%
+fio,sockperf,,,112,129,15.18%
+fio,sockperf,,,28733,32700,13.81%
+fio,sockperf,,,108,123,13.89%
+fio,sockperf,,,27567,31433,14.02%
+fio,sockperf,,,108,123,13.89%
+fio,sockperf,,,27600,31500,14.13%
+fio,sudokut,,,112,126,12.50%
+fio,sudokut,,,28800,32400,12.50%
+fio,sudokut,,,112,127,13.39%
+fio,sudokut,,,28733,32433,12.88%
+fio,sudokut,,,108,121,12.04%
+fio,sudokut,,,27567,30900,12.09%
+fio,sudokut,,,108,121,12.04%
+fio,sudokut,,,27600,30967,12.20%
+ramspeed,apache,,,15729.73,14680.29,-6.67%
+ramspeed,apache,,,15629,14476.11,-7.38%
+ramspeed,build-linux-kernel,,,15729.73,14418.15,-8.34%
+ramspeed,build-linux-kernel,,,15629,14438.85,-7.62%
+ramspeed,crafty,,,15729.73,14921.76,-5.14%
+ramspeed,crafty,,,15629,14657.99,-6.21%
+ramspeed,fhourstones,,,15729.73,15450.79,-1.77%
+ramspeed,fhourstones,,,15629,15405.25,-1.43%
+ramspeed,fio,,,15729.73,15409.45,-2.04%
+ramspeed,fio,,,15629,15345.77,-1.81%
+ramspeed,ramspeed,,,15729.73,13378.95,-14.94%
+ramspeed,ramspeed,,,15629,13372.06,-14.44%
+ramspeed,sockperf,,,15729.73,15608.78,-0.77%
+ramspeed,sockperf,,,15629,15541.78,-0.56%
+ramspeed,sudokut,,,15729.73,15347.46,-2.43%
+ramspeed,sudokut,,,15629,15089.86,-3.45%
+sockperf,apache,,,1025.49,1048.6,2.25%
+sockperf,build-linux-kernel,,,1025.49,1095.83,6.86%
+sockperf,crafty,,,1025.49,947.45,-7.61%
+sockperf,fhourstones,,,1025.49,1086.06,5.91%
+sockperf,fio,,,1025.49,1087.55,6.05%
+sockperf,ramspeed,,,1025.49,985.49,-3.90%
+sockperf,sockperf,,,1025.49,985.29,-3.92%
+sockperf,sudokut,,,1025.49,1018.78,-0.65%
+sudokut,apache,,,10.93,10.64,-2.65%
+sudokut,build-linux-kernel,,,10.93,10.7,-2.10%
+sudokut,crafty,,,10.93,10.66,-2.47%
+sudokut,fhourstones,,,10.93,10.66,-2.47%
+sudokut,fio,,,10.93,10.47,-4.21%
+sudokut,ramspeed,,,10.93,10.79,-1.28%
+sudokut,sockperf,,,10.93,10.47,-4.21%
+sudokut,sudokut,,,10.93,10.65,-2.56%
